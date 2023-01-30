@@ -1,4 +1,4 @@
-
+![ cabeçalho](https://github.com/programacaogabriel/k6_Realizando_testes_de_garga/blob/main/imagens/k6.png)
 <h1 align="center">Teste de Garga e Performance NetShoes </h1>
 
 ####  Este é um teste planejado por mim, aonde realizo os seguintes passos :
