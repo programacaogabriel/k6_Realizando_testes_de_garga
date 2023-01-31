@@ -3,7 +3,7 @@
 
 ####  Este é um teste planejado por mim, aonde realizo os seguintes passos :
 
-* Performance
+
 * Smoke Test
 * Load Test
 * Stress e Spike Test
