@@ -7,8 +7,8 @@ import { htmlReport } from "https://raw.githubusercontent.com/benc-uk/k6-reporte
 //Carga variavel
 export const options = {
     stages: [
-        { duration: '5m', target: 50 },
-        { duration: '10m', target: 50 },
+        { duration: '5m', target: 150 },
+        { duration: '10m', target: 150 },
         { duration: '5m', target: 0 }
 
     ]
@@ -24,6 +24,6 @@ export default function () {
 }
 export function handleSummary(data) {
     return {
-        "summary2.html": htmlReport(data),
+        "my_test_result_json.html": htmlReport(data),
     };
 }
