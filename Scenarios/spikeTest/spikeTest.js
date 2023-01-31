@@ -9,8 +9,8 @@ export const options = {
 
         { duration: '10s', target: 100 },
         { duration: '1m', target: 100 },
-        { duration: '10s', target: 1400 },
-        { duration: '3m', target: 1400 },
+        { duration: '10s', target: 500 },
+        { duration: '3m', target: 500 },
         { duration: '10s', target: 100 },
         { duration: '3m', target: 100 },
         { duration: '10s', target: 0 },
