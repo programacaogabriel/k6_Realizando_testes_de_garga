@@ -37,8 +37,10 @@ Docker : https://k6.io/docs/get-started/installation/#docker
 
 2 - Tenha um navegador especifico, recomendo o Firefox.
 
-Site com todas as versoes para realizar o download: https://www.mozilla.org/en-US/firefox/all/#product-desktop-release
+Site com todas as versoes para realizar o download : https://www.mozilla.org/en-US/firefox/all/#product-desktop-release
 
-3 - Exemplos de alguns tutoriais mais populares: https://k6.io/docs/examples/
+3 - Visual Studio : https://code.visualstudio.com/download
 
-4 - Manual K6 : https://k6.io/docs/get-started/running-k6/
+4 - Exemplos de alguns tutoriais mais populares : https://k6.io/docs/examples/
+
+5 - Manual K6 : https://k6.io/docs/get-started/running-k6/
