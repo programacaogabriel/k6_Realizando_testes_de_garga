@@ -7,7 +7,7 @@ import { htmlReport } from "https://raw.githubusercontent.com/benc-uk/k6-reporte
 //Carga Constante
 export const options = {
     vus: 50,
-    duration: '10m'
+    duration: '20m'
 }
 
 
