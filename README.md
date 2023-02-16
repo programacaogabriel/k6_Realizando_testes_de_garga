@@ -11,7 +11,7 @@
 
 
 
-Situação: Em desenvolvimento ⚠️
+Situação: Terminado
 
 
 
